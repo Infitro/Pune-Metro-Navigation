@@ -1,0 +1,48 @@
+PCMC,Sant Tukaram Nagar,2.4
+Sant Tukaram Nagar,Nashik Phata,3.3
+Nashik Phata,Kasarwadi,2.1
+Kasarwadi,Phugewadi,1.1
+Phugewadi,Dapodi,2.2
+Dapodi,Bopodi,1.6
+Bopodi,Khadki,1
+Khadki,Range Hill,2
+Range Hill,Shivaji Nagar,1.5
+Shivaji Nagar,Civil Court,2
+Civil Court,Budhwar Peth,1.1
+Budhwar Peth,Mandai,1.3
+Mandai,Swargate,1.7
+Vanaz,Anand Nagar,1
+Anand Nagar,Ideal Colony,1.1
+Ideal Colony,Nal Stop,1.1
+Nal Stop,Garware College,1.5
+Garware College,Deccan Gymkhana,1.2
+Deccan Gymkhana,Chhatrapati Sambhaji Udyan,1.3
+Chhatrapati Sambhaji Udyan,PMC,1
+PMC,Civil Court,0.8
+Civil Court,Mangalwar Peth,1.9
+Mangalwar Peth,Pune Railway Station,0.7
+Pune Railway Station,Ruby Hall Clinic,0.5
+Ruby Hall Clinic,Bund Garden,0.9
+Bund Garden,Yerawada,1
+Yerawada,Kalyani Nagar,2.4
+Kalyani Nagar,Ramwadi,1.4
+Quadron,Infosys Phase II,1.9
+Infosys Phase II,Dohler,1.2
+Dohler,Wipro Technologies,2.5
+Wipro Technologies,Pall India,2
+Pall India,Shivaji Chowk,1.6
+Shivaji Chowk,Hinjawadi,0.5
+Hinjawadi,Wakad Chowk,3.1
+Wakad Chowk,Balewadi Stadium,3.9
+Balewadi Stadium,NICMAR,0.6
+NICMAR,Ramnagar,0.5
+Ramnagar,Laxmi Nagar,2
+Laxmi Nagar,Balewadi Phata,2
+Balewadi Phata,Baner Gaon,0.7
+Baner Gaon,Baner,1.5
+Baner,IARI,4
+IARI,Sakal Nagar,1.5
+Sakal Nagar,SPPU,1
+SPPU,RBI,1.1
+RBI,Agriculture College,1.1
+Agriculture College,Shivaji Nagar,1.6

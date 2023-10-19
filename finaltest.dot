@@ -1,0 +1,57 @@
+graph G {
+node [shape=rect,dpi=600] margin=0.75
+
+//red
+"PCMC" -- "Sant Tukaram Nagar" [label="2.4",color=red ,penwidth="2"];
+"Sant Tukaram Nagar" -- "Nashik Phata" [label="3.3",color=red ,penwidth="2"];
+"Nashik Phata" -- "Kasarwadi" [label="2.1",color=red ,penwidth="2"];
+"Kasarwadi" -- "Phugewadi" [label="1.1",color=red ,penwidth="2"];
+"Phugewadi" -- "Dapodi" [label="2.2",color=red ,penwidth="5"];
+"Dapodi" -- "Bopodi" [label="1.6",color=red ,penwidth="5"];
+"Bopodi" -- "Khadki" [label="1",color=red ,penwidth="5"];
+"Khadki" -- "Range Hill" [label="2",color=red ,penwidth="5"];
+"Range Hill" -- "Shivaji Nagar" [label="1.5",color=red ,penwidth="5"];
+"Shivaji Nagar" -- "Civil Court" [label="2",color=red ,penwidth="5"];
+"Civil Court" -- "Budhwar Peth" [label="1.1",color=red ,penwidth="2"];
+"Budhwar Peth" -- "Mandai" [label="1.3",color=red ,penwidth="2"];
+"Mandai" -- "Swargate" [label="1.7",color=red ,penwidth="2"];
+
+//blue
+"Vanaz" -- "Anand Nagar" [label="1",color=blue ,penwidth="2"];
+"Anand Nagar" -- "Ideal Colony" [label="1.1",color=blue ,penwidth="2"];
+"Ideal Colony" -- "Nal Stop" [label="1.1",color=blue ,penwidth="2"];
+"Nal Stop" -- "Garware College" [label="1.5",color=blue ,penwidth="2"];
+"Garware College" -- "Deccan Gymkhana" [label="1.2",color=blue ,penwidth="2"];
+"Deccan Gymkhana" -- "Chhatrapati Sambhaji Udyan" [label="1.3",color=blue ,penwidth="2"];
+"Chhatrapati Sambhaji Udyan" -- "PMC" [label="1",color=blue ,penwidth="2"];
+"PMC" -- "Civil Court" [label="0.8",color=blue ,penwidth="5"];
+"Civil Court" -- "Mangalwar Peth" [label="1.9",color=blue ,penwidth="2"];
+"Mangalwar Peth" -- "Pune Railway Station" [label="0.7",color=blue ,penwidth="2"];
+"Pune Railway Station" -- "Ruby Hall Clinic" [label="0.5",color=blue ,penwidth="2"];
+"Ruby Hall Clinic" -- "Bund Garden" [label="0.9",color=blue ,penwidth="2"];
+"Bund Garden" -- "Yerawada" [label="1",color=blue ,penwidth="2"];
+"Yerawada" -- "Kalyani Nagar" [label="2.4",color=blue ,penwidth="2"];
+"Kalyani Nagar" -- "Ramwadi" [label="1.4",color=blue ,penwidth="2"];
+
+//yellow
+"Quadron" -- "Infosys Phase II" [label="1.9",color=yellow ,penwidth="2"];
+"Infosys Phase II" -- "Dohler" [label="1.2",color=yellow ,penwidth="2"];
+"Dohler" -- "Wipro Technologies" [label="2.5",color=yellow ,penwidth="2"];
+"Wipro Technologies" -- "Pall India" [label="2",color=yellow ,penwidth="2"];
+"Pall India" -- "Shivaji Chowk" [label="1.6",color=yellow ,penwidth="2"];
+"Shivaji Chowk" -- "Hinjawadi" [label="0.5",color=yellow ,penwidth="2"];
+"Hinjawadi" -- "Wakad Chowk" [label="3.1",color=yellow ,penwidth="2"];
+"Wakad Chowk" -- "Balewadi Stadium" [label="3.9",color=yellow ,penwidth="2"];
+"Balewadi Stadium" -- "NICMAR" [label="0.6",color=yellow ,penwidth="2"];
+"NICMAR" -- "Ramnagar" [label="0.5",color=yellow ,penwidth="2"];
+"Ramnagar" -- "Laxmi Nagar" [label="2",color=yellow ,penwidth="2"];
+"Laxmi Nagar" -- "Balewadi Phata" [label="2",color=yellow ,penwidth="2"];
+"Balewadi Phata" -- "Baner Gaon" [label="0.7",color=yellow ,penwidth="2"];
+"Baner Gaon" -- "Baner" [label="1.5",color=yellow ,penwidth="2"];
+"Baner" -- "IARI" [label="4",color=yellow ,penwidth="2"];
+"IARI" -- "Sakal Nagar" [label="1.5",color=yellow ,penwidth="2"];
+"Sakal Nagar" -- "SPPU" [label="1",color=yellow ,penwidth="2"];
+"SPPU" -- "RBI" [label="1.1",color=yellow ,penwidth="2"];
+"RBI" -- "Agriculture College" [label="1.1",color=yellow ,penwidth="2"];
+"Agriculture College" -- "Shivaji Nagar" [label="1.6",color=yellow ,penwidth="2"];
+}

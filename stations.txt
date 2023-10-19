@@ -1,0 +1,51 @@
+1	PCMC
+2	Sant Tukaram Nagar
+3	Nashik Phata
+4	Kasarwadi
+5	Phugewadi
+6	Dapodi
+7	Bopodi
+8	Khadki
+9	Range Hill
+10	Shivaji Nagar
+11	Civil Court
+12	Budhwar Peth
+13	Mandai
+14	Swargate
+15	Vanaz
+16	Anand Nagar
+17	Ideal Colony
+18	Nal Stop
+19	Garware College
+20	Deccan Gymkhana
+21	Chhatrapati Sambhaji Udyan
+22	PMC
+23	Civil Court
+24	Mangalwar Peth
+25	Pune Railway Station
+26	Ruby Hall Clinic
+27	Bund Garden
+28	Yerawada
+29	Kalyani Nagar
+30	Ramwadi
+31	Quadron
+32	Infosys Phase II
+33	Dohler
+34	Wipro Technologies
+35	Pall India
+36	Shivaji Chowk
+37	Hinjawadi
+38	Wakad Chowk
+39	Balewadi Stadium
+40	NICMAR
+41	Ramnagar
+42	Laxmi Nagar
+43	Balewadi Phata
+44	Baner Gaon
+45	Baner
+46	IARI
+47	Sakal Nagar
+48	SPPU
+49	RBI
+50	Agriculture College
+51	Shivaji Nagar
